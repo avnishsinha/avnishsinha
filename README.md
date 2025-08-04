@@ -49,8 +49,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avnishsinha&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnishsinha&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=avnishsinha&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avnishsinha&theme=vue-dark&hide_border=false" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnishsinha&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="170">
 </p>
 
 ---
@@ -64,4 +65,3 @@
 ---
 
 > “Code is poetry. Unless it doesn’t compile.”
-

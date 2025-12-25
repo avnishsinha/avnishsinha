@@ -1,48 +1,54 @@
 <h1 align="center">Hey there 👋, I'm Avnish</h1>
 
 <p align="center">
-  🚀 Full-stack developer • 🧠 AI tinkerer • 🎓 CS Undergrad @ NAU • 📍 Based in AZ  
+  🚀 Full-stack Developer • 🧠 AI Tinkerer • 🎓 CS Undergrad @ NAU • 📍 Based in AZ
 </p>
 
 <p align="center">
-  <a href="https://github.com/avnishsinha"><img src="https://img.shields.io/github/followers/avnish-sinha?label=Follow&style=social"></a>
-  <a href="mailto:aks526@nau.edu"><img src="https://img.shields.io/badge/email-DM%20me-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/avnishsinha">
+    <img src="https://img.shields.io/github/followers/avnishsinha?label=Follow&style=social">
+  </a>
+  <a href="mailto:aks526@nau.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail">
+  </a>
 </p>
 
 ---
 
 ### 🧩 About Me
 
-- 🔭 I’m currently building: **Sunrise - Decision Theater 👽**   
-- 🌱 Diving deep into **React**, **Node.js**, and **PostgreSQL**, **Firebase**, **flutter**,**git**
-- 🧠 Passionate about **neurodiversity**, accessibility, and creating tools that empower people  
-- 🧪 Hackathons, side-projects, and open-source keep me alive
-- 💬 Always down to talk tech, startups, or weird ideas
+- 🔭 Currently building **[Sunrise @ Decision Theater](https://sites.google.com/nau.edu/qoyangnuptu/home)**  
+- 🌱 Deepening skills in **React**, **Node.js**, **PostgreSQL**, **Firebase**, **Flutter**, and **Git**
+- 🧠 Passionate about **accessibility**, **neurodiversity**, and building tools that empower people  
+- 🧪 Hackathons, side-projects, and open-source keep me motivated  
+- ☁️ Also maintain a **self-hosted NAS + Nextcloud + Tailscale home lab** for secure storage, learning, and real-world systems practice  
+- 💬 Always happy to talk tech, startups, infrastructure, or wild ideas  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**  
 `JavaScript` `TypeScript` `Python` `C++` `SQL`
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
 `React.js` `Node.js` `Express.js` `EJS` `TailwindCSS`
 
-**Databases & Cloud:**  
+**Databases & Cloud**  
 `PostgreSQL` `MySQL` `MongoDB` `Firebase` `AWS (RDS)` `Azure`
 
-**Tools & Platforms:**  
+**Tools & Platforms**  
 `Git` `VSCode` `Postman` `Docker` `Vercel` `Netlify`
 
 ---
 
 ### ⚙️ Current Projects
 
-- 🧾 **Expense Tracker** – Budgeting web app w/ categories & analytics  
-- 📝 **Blog Web App** – React + Node.js blog platform with authentication  
-- 🧠 **NeuroAdapt** *(in dev)* – AI-powered coach for neurodivergent learners 
-- 📊 **ecoWattch** – Gamified energy-tracking and energy-saving awareness mobile app (capstone)
+- 🌅 **[Sunrise @ Decision Theater](https://sites.google.com/nau.edu/qoyangnuptu/home)** — Accessibility-focused research + application ecosystem supporting community needs  
+- 🧾 **Expense Tracker** — Budgeting web app w/ categories & analytics  
+- 📝 **Blog Platform** — React + Node.js application with authentication  
+- 🧠 **NeuroAdapt (in dev)** — AI-powered learning coach for neurodivergent learners  
+- 📊 **ecoWattch (Capstone)** — Gamified energy-awareness Android application  
 
 ---
 
@@ -58,10 +64,10 @@
 
 ### 📫 Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/avnishkumarsinha/)
-- 🧠 [Portfolio Site](https://avnishsinha.github.io/) 
-- 📬 aks526@nau.edu
+- 💼 https://www.linkedin.com/in/avnishkumarsinha/  
+- 🌐 https://avnishsinha.github.io/  
+- 📬 aks526@nau.edu  
 
 ---
 
-> “Code is poetry. Unless it doesn’t compile.”
+> “Code is poetry — until it doesn’t compile.”
